@@ -15,6 +15,7 @@ package as well.
 
 
 The `Mathematica` package is available from: [github.com/DirectDM/directdm-mma](https://github.com/DirectDM/directdm-mma)
+
 The `python3` package is available from: [github.com/DirectDM/directdm-py](https://github.com/DirectDM/directdm-py)
 
 -----
